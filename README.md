@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abanoub Samy Badia</h1>
-<h3 align="center">Senior Flutter Developer at ZahSoft</h3>
+<h3 align="center">Senior Flutter Developer at Nile Arc</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abanoubsam99&label=Profile%20views&color=0e75b6&style=flat" alt="abanoubsam99" /> </p>
 
-- 🔭 I’m currently working on [Bariapp Jaber](https://play.google.com/store/apps/details?id=com.medical.jsdkw)
+- 🔭 I’m currently working on [Bariapp Farwanya](https://play.google.com/store/apps/details?id=com.farwanyhospital.farwanyhospital&hl=en)
 
 - 🌱 I’m currently learning **TDD Flutter CleanCode**
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **abanoubsam1999@gmail.com**
+  
+- 📫 My Website [AbanoubSamy.com](https://abanoubsamyportfolio.web.app/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/121Wv8lt6C-Hx_ybbdmBWJHedVxEf0_rz/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T013ZvvVIErUFESxVRQpA0zflVjbv1-P/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am funny**
 
